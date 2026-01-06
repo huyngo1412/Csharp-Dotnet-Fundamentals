@@ -1,0 +1,4 @@
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson01\obj\Debug\net8.0\Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson01\obj\Debug\net8.0\Lesson01.AssemblyInfoInputs.cache
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson01\obj\Debug\net8.0\Lesson01.AssemblyInfo.cs
+D:\99.ZeroToHero\01.C_Sharp\Src\Lesson01\obj\Debug\net8.0\Lesson01.csproj.CoreCompileInputs.cache
