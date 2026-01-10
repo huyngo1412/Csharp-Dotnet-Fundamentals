@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lesson02",
+              "Title": "Lesson02.csproj",
               "DocumentMoniker": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Lesson02.csproj",
               "RelativeDocumentMoniker": "Lesson02\\Lesson02.csproj",
               "ToolTip": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Lesson02.csproj",
               "RelativeToolTip": "Lesson02\\Lesson02.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T14:38:46.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T14:38:46.195Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Lesson02\\Program.cs",
               "ToolTip": "D:\\99.ZeroToHero\\01.C_Sharp\\Src\\Lesson02\\Program.cs",
               "RelativeToolTip": "Lesson02\\Program.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T14:50:03.352Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Lesson01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:46:44.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T13:46:44.345Z"
             }
           ]
         }
